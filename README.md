@@ -27,3 +27,13 @@ This repo contains graph algorithms used to Theory and Applications of Graphs.
 > [Hungiran](./algorithms/hungarian_algorithm/README.md)
 
 > [Ford Fulkerson](./algorithms/Ford_Fulkerson_algorithm/README.md)
+
+<br>
+
+## Projects
+
+> [Dolphins community - Bron-Kerbosch](./projects/Bron-Kerbosch/README.md)
+
+> [Matching professors and schools - Gale-Shapley](./projects/projeto2_TAG/README.md)
+
+> [Sudoku - Graph coloring](./projects/projeto3_TAG/README.md)
