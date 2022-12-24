@@ -1,4 +1,4 @@
-# perfect_matching_aglorithm
+# Perfect Matching aglorithm
 
 Perfect matching is a matching that covers every vertex of the graph
 
