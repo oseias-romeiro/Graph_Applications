@@ -10,6 +10,8 @@ This repo contains graph algorithms used to Theory and Applications of Graphs.
 
 > [BFS](./algorithms/BFS/README.md)
 
+> [Bipartite Checker](./algorithms/Bipartite_graphs/README.md)
+
 > [Floyd-Warshall](./algorithms/BFS/README.md)
 
 > [Kosaraju-Sharir](./algorithms/Kosaraju-Sharir/README.md)
