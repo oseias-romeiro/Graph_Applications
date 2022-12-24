@@ -12,6 +12,8 @@ This repo contains graph algorithms used to Theory and Applications of Graphs.
 
 > [Bipartite Checker](./algorithms/Bipartite_graphs/README.md)
 
+> [Perfect Matching](./algorithms/Perfect_Matching/README.md)
+
 > [Floyd-Warshall](./algorithms/BFS/README.md)
 
 > [Kosaraju-Sharir](./algorithms/Kosaraju-Sharir/README.md)
